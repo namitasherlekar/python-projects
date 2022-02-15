@@ -34,7 +34,7 @@ EDA, Linear Regression, Linear Regression assumptions, Business insights and rec
 
 <br />
 
-##INN Hotels Project
+## INN Hotels Project
 **_Supervised Learning - Classification_**
 
 Analyze the data of INN Hotels to find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is
