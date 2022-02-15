@@ -1,3 +1,5 @@
+A collection of my projects using data analysis tools with Python. Included a folder of .py files, with executable scripts, and pdfs for ease of readability. 
+
 ## FoodHub Project
 **_Python - Foundations_**
 
