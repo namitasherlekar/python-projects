@@ -1,4 +1,4 @@
-## FoodHub Project:
+## FoodHub Project
 **_Python - Foundations_**
 
 The food aggregator company FoodHub has stored the data of the different orders made by the registered customers in their online portal. They want to analyze 
@@ -10,7 +10,7 @@ Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Vari
 
 <br />
 
-## E-news Express Project:
+## E-news Express Project
 **_Business Statistics_**
 
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is
