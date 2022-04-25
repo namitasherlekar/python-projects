@@ -49,6 +49,8 @@ Analyzed the data of Visa applicants, built a predictive model to facilitate the
 EDA, Data Preprocessing, Customer Profiling, Bagging Classifiers (Bagging and Random Forest), Boosting Classifier (AdaBoost,Gradient Boosting),
 Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Business insights
 
+<br />
+
 ## ReneWind Project
 **_Model Tuning_**
 
@@ -56,6 +58,8 @@ Stacking Classifier, Hyperparameter Tuning using GridSearchCV, Business insights
 
 **Skills and Tools:**
 EDA, Up and downsampling, Regularization, Hyperparameter tuning
+
+<br />
 
 ## Trade&Ahead Project
 **_Ensemble Techniques_**
